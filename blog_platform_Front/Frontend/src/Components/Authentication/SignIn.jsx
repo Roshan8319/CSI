@@ -50,9 +50,8 @@ function SignIn() {
         {/* Left side - Welcome section */}
         <div className="text-white space-y-6 px-8">
           <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-white rounded-sm flex items-center justify-center">
-              <div className="w-3 h-6 bg-purple-600 rounded-sm"></div>
-              <div className="w-1 h-3 bg-purple-600 rounded-sm ml-1"></div>
+            <div className=" text-5xl text-white rounded-sm flex items-center justify-center">
+              Inspire World in your own Way!!
             </div>
           </div>
           
